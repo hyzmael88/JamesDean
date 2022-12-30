@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Aftika";
+    src: url("./assets/Aftika-Font/Demo_Fonts/aftika-regular.otf");
+  }
+@font-face {
+    font-family: "Greathy";
+    src: url("./assets/Greathy-Demo/Greathy/ Demo.ttf");
+  }
+@font-face {
+    font-family: "Lemon";
+    src: url("./assets/lemon_milk/LEMONMILK-Regular.otf");
+  }
+@font-face {
+    font-family: "Varsity";
+    src: url("./assets/varsity_2/varsity_regular.ttf");
+  }
