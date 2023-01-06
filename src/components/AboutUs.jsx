@@ -29,7 +29,7 @@ function AboutUs() {
               survived not only five centuries, but also the leap into
               electronic.
             </p>
-            <button className=" mt-10 mb-4 px-6 py-2 bg-red-500 rounded-xl font-aftika uppercase text-white">Conoce más</button>
+            <button className=" mt-10 mb-4 px-6 py-2 bg-red-500 rounded-xl font-lemon uppercase text-white">Conoce más</button>
 {/*             <p className="text-white underline underline-offset-4 mt-4">Conoce más.</p>
  */}          </div>
           
